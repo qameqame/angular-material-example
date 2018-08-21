@@ -29,3 +29,5 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
   entryComponents: [EditorComponent, DialogComponent]
 })
 export class AppModule { }
+
+
